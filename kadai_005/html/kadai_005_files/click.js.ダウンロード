@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link href="/adserver/images/icon/favicon.ico" rel="SHORTCUT ICON" />
+	<title>アフィタウン | サイトURL変更のお知らせ</title>
+</head>
+<body>
+    <div style="width:950px; margin:0 auto; background-color:#FFF; padding-bottom:50px;">
+        <p style="text-align:center; font-size:32px; color:#00A0E7;">
+            サイトURL変更のお知らせ
+        </p>
+        <p style="text-align:center; padding:25px 0;">
+            こちらのサイトURLは2024/10/31（木）をもって終了致しました。<br />
+            変更後のURLについては、下記よりご利用ください。<br />
+            ご不明点などについても、変更後のURLよりお問い合わせください。<br />
+            <br />
+            変更後のURL : <a href="https://affitown.jp/">https://affitown.jp/</a><br />
+        </p>
+        <div align="center">
+            <img alt="掲載終了" src="/byebye_affito.jpg">
+        </div><br>
+        <address style="font-style:normal; color:#666; font-size:12px; text-align:center; margin-top: 16px;">
+        Copyright c GMO Media, Inc. All Rights Reserved.
+        </address>
+    </div>
+</body>
+</html>
