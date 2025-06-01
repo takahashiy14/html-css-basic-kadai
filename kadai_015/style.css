@@ -19,6 +19,10 @@ h1{
   border-bottom: solid 3px rgb(115,115,114);
 }
 
+p{
+  font-weight: normal;
+}
+
 #basic p{
   font-weight: bold;
 }
